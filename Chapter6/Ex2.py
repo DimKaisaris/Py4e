@@ -3,3 +3,4 @@ x=text.find('0')
 y=text[x:]
 z=float(y)
 print(z)
+print('something else')
