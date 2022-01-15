@@ -1,0 +1,21 @@
+1) DATA ANALYST (NOVIBET)
+Responsibilities
+* Design and develop data intelligence including the analysis, reporting, and dashboards of key metrics and KPIs
+* Identify trends, visualize patterns, evaluate established KPIs, and introduce new
+* Utilize strong database skills to work with large, complex data sets to extract insights
+* Perform business requirements analysis and collect required information and data from internal stakeholders
+* Identify new internal and external data sources to support analytics initiatives and work with appropriate partners to absorb the data into new or existing data infrastructure
+* Handling customer analysis driving concise and focused insight and understanding about our customers to relevant teams within the business
+* Contribute to establishing a strong data culture across the organization
+
+                Qualifications
+* Bachelors or Masters in a quantitative field (such as Statistics, Math, Economics, or Computer Science with Modeling/Data Science)
+* 2 years of working experience
+* Proven problem solving and debugging skills
+* Strong SQL skills, highly advanced with MS-Excel
+* High drive, can-do attitude, proactive and flexible to changing business demands
+* Statistical knowledge in standard techniques: Logistic Regression, Classification models, Cluster Analysis etc.
+
+
+
+
